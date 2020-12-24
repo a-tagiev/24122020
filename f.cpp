@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<fstream>
 #include<cstdlib>
 using namespace std;
@@ -24,4 +24,4 @@ for(int i=0; i<n; i++){
     }
 
 
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include <string>
 #include<algorithm>
 using namespace std;
@@ -12,4 +12,4 @@ int main() {
     //replace( string1.begin(), string1.end(), 'A', 'b');
     cout<<string1<<endl;
     cout<<n;
-}*/
+}
