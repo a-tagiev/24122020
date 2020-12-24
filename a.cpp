@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include <iomanip>
 
 using namespace std;
@@ -12,4 +12,4 @@ int main() {
     cout<<a<<'*'<<b<<'*'<<c<<'='<<a*b*c<<endl;
     cout<<'('<<a<<'+'<<b<<'+'<<c<<')'<<'/'<<'3'<<'=';
     cout<<fixed<<setprecision(3)<<((a+b+c)/3);
-}*/
+}
